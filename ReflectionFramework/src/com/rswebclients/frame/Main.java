@@ -22,7 +22,7 @@ public class Main {
 	
 	public static void main(String args[]) {
 		main = new Main();
-		Loader.init("http://insanityx.net/InsanityX%20V3.1.1.jar");
+		Loader.init("http://example.com/webclient.jar");
 	}
 	
 	public static Main getMain() {

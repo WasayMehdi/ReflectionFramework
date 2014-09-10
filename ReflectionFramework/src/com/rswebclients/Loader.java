@@ -21,7 +21,7 @@ public class Loader {
 	public static void init(String s) {
 		try {
 			loader = JarLoader.getJar(s);
-			clientClass = ReflectionUtils.getClass(loader, "client.Client");
+			clientClass = ReflectionUtils.getClass(loader, "client");
 			client = new Client(clientClass, clientClass.newInstance());
 			client.getApplet().addKeyListener(new CommandListener());
 			Main.getMain().addApplet(client);
