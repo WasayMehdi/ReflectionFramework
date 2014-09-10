@@ -1,7 +1,5 @@
 package com.rswebclients;
 
-import java.util.HashMap;
-
 import com.rswebclients.frame.Main;
 import com.rswebclients.frame.listeners.CommandListener;
 import com.rswebclients.util.ReflectionUtils;
