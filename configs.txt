@@ -1,0 +1,15 @@
+jarurl::http://example.com/client.jar
+client::com.example.client
+inStream::inStream
+Stream::com.example.Stream
+stream::stream
+myPlayer::myPlayer
+Player::com.example.Player
+MouseDetection::MouseDetection
+mouseDetection::mouseDetection
+writeWord::writeWord
+createFrame::createFrame
+writeByte::writeByte
+login::login
+myUsername::myUsername
+myPassword::myPassword
